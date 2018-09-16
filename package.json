@@ -1,0 +1,22 @@
+{
+  "name": "secure_password_generator",
+  "version": "1.0.0",
+  "description": "CLI utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazarKhandoha/Password_Generator.git"
+  },
+  "author": "Nazar Khandoha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NazarKhandoha/Password_Generator/issues"
+  },
+  "homepage": "https://github.com/NazarKhandoha/Password_Generator#readme",
+  "dependencies": {
+    "commander": "^2.18.0"
+  }
+}
